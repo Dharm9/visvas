@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/visvas/static/js/main.dc9555b1.chunk.js",
-    "main.js.map": "/visvas/static/js/main.dc9555b1.chunk.js.map",
+    "main.js": "/visvas/static/js/main.75f8af3f.chunk.js",
+    "main.js.map": "/visvas/static/js/main.75f8af3f.chunk.js.map",
     "runtime-main.js": "/visvas/static/js/runtime-main.fa1c86da.js",
     "runtime-main.js.map": "/visvas/static/js/runtime-main.fa1c86da.js.map",
     "static/js/2.ed954523.chunk.js": "/visvas/static/js/2.ed954523.chunk.js",
@@ -26,6 +26,6 @@
   "entrypoints": [
     "static/js/runtime-main.fa1c86da.js",
     "static/js/2.ed954523.chunk.js",
-    "static/js/main.dc9555b1.chunk.js"
+    "static/js/main.75f8af3f.chunk.js"
   ]
 }
