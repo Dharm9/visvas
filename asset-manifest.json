@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/visvas/static/js/main.dc9555b1.chunk.js",
+    "main.js.map": "/visvas/static/js/main.dc9555b1.chunk.js.map",
+    "runtime-main.js": "/visvas/static/js/runtime-main.fa1c86da.js",
+    "runtime-main.js.map": "/visvas/static/js/runtime-main.fa1c86da.js.map",
+    "static/js/2.ed954523.chunk.js": "/visvas/static/js/2.ed954523.chunk.js",
+    "static/js/2.ed954523.chunk.js.map": "/visvas/static/js/2.ed954523.chunk.js.map",
+    "index.html": "/visvas/index.html",
+    "static/js/2.ed954523.chunk.js.LICENSE.txt": "/visvas/static/js/2.ed954523.chunk.js.LICENSE.txt",
+    "static/media/FooterTitle2.7f6fc5ef.svg": "/visvas/static/media/FooterTitle2.7f6fc5ef.svg",
+    "static/media/HeaderTitle2.svg": "/visvas/static/media/HeaderTitle2.41ab92a1.svg",
+    "static/media/avatar.4b0188b7.png": "/visvas/static/media/avatar.4b0188b7.png",
+    "static/media/contactus.e165f8a8.jpg": "/visvas/static/media/contactus.e165f8a8.jpg",
+    "static/media/contactusSM2.19844349.jpg": "/visvas/static/media/contactusSM2.19844349.jpg",
+    "static/media/faq.f7b5dd95.svg": "/visvas/static/media/faq.f7b5dd95.svg",
+    "static/media/gp resources.50ba655d.svg": "/visvas/static/media/gp resources.50ba655d.svg",
+    "static/media/gp stories.b295ff42.svg": "/visvas/static/media/gp stories.b295ff42.svg",
+    "static/media/repeatingBackground.02252817.svg": "/visvas/static/media/repeatingBackground.02252817.svg",
+    "static/media/teamSpirit.ea500527.svg": "/visvas/static/media/teamSpirit.ea500527.svg",
+    "static/media/under construction.93a7bc67.svg": "/visvas/static/media/under construction.93a7bc67.svg",
+    "static/media/village2_md.ff325799.jpg": "/visvas/static/media/village2_md.ff325799.jpg",
+    "static/media/village2_sm.9420bf5b.jpg": "/visvas/static/media/village2_sm.9420bf5b.jpg",
+    "static/media/winner2.815ac9e8.svg": "/visvas/static/media/winner2.815ac9e8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa1c86da.js",
+    "static/js/2.ed954523.chunk.js",
+    "static/js/main.dc9555b1.chunk.js"
+  ]
+}
