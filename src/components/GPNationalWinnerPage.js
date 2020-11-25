@@ -136,7 +136,7 @@ export default function GPNationalWinnerPage(props) {
                 <CardActionArea component={Link} to={{pathname: gpData.link, state:gpData}}>
                   <CardMedia
                     className={classes.cardMedia}
-                    image={gpData.avatar}
+                    image={avatar}
                     title="GP Image"
                   />
                   <CardContent>

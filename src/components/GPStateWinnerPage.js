@@ -23,7 +23,7 @@ import StateGPData from './ui/TopStateGPData';
 // import AlternateEmailIcon from '@material-ui/icons/AlternateEmail';
 // import AccountBoxIcon from '@material-ui/icons/AccountBox';
 
-// import avatar from '../assets/imagePlaceHolder.png';
+import avatar from '../assets/imagePlaceHolder.png';
 // import aboutUs from '../assets/aboutus.jpg';
 // import teamMeet from '../assets/TeamMeet1.svg';
 // import teamProject from '../assets/teamProject.svg';
@@ -136,7 +136,7 @@ export default function GPStateWinnerPage(props) {
                 <CardActionArea component={Link} to={{pathname: gpData.link, state:gpData}}>
                   <CardMedia
                     className={classes.cardMedia}
-                    image={gpData.avatar}
+                    image={avatar}
                     title="GP Image"
                   />
                   <CardContent>
