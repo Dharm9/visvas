@@ -492,7 +492,7 @@ export default function Header(props) {
               <img src={logo} className={classes.logo} alt="company logo" />
             </Button>
             <Alert severity="warning">
-              This is Demo
+              This is a Demo Only
             </Alert>
             {matches ? drawer : tabs}
           </Toolbar>
