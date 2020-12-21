@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.3189cb4f.chunk.js",
-    "main.js.map": "/static/js/main.3189cb4f.chunk.js.map",
+    "main.js": "/static/js/main.3bee471d.chunk.js",
+    "main.js.map": "/static/js/main.3bee471d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.74b8d595.js",
     "runtime-main.js.map": "/static/js/runtime-main.74b8d595.js.map",
-    "static/js/2.77726a90.chunk.js": "/static/js/2.77726a90.chunk.js",
-    "static/js/2.77726a90.chunk.js.map": "/static/js/2.77726a90.chunk.js.map",
+    "static/js/2.8ee8b669.chunk.js": "/static/js/2.8ee8b669.chunk.js",
+    "static/js/2.8ee8b669.chunk.js.map": "/static/js/2.8ee8b669.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.77726a90.chunk.js.LICENSE.txt": "/static/js/2.77726a90.chunk.js.LICENSE.txt",
+    "static/js/2.8ee8b669.chunk.js.LICENSE.txt": "/static/js/2.8ee8b669.chunk.js.LICENSE.txt",
     "static/media/15th Finance Commsn Letter Water Sanitation Fund Advisory.c483472e.pdf": "/static/media/15th Finance Commsn Letter Water Sanitation Fund Advisory.c483472e.pdf",
     "static/media/Child Friendly GP 2019 Awardee list.6432c28e.pdf": "/static/media/Child Friendly GP 2019 Awardee list.6432c28e.pdf",
     "static/media/Child Friendly GP 2020 Awardee list.f1e79114.pdf": "/static/media/Child Friendly GP 2020 Awardee list.f1e79114.pdf",
@@ -32,11 +32,13 @@
     "static/media/Preparation of GPDP- Operating Framework and Template for Plan Preparation- UNNATI.2ddd7b73.pdf": "/static/media/Preparation of GPDP- Operating Framework and Template for Plan Preparation- UNNATI.2ddd7b73.pdf",
     "static/media/TOT DRR Rural Dev.a31e7255.pdf": "/static/media/TOT DRR Rural Dev.a31e7255.pdf",
     "static/media/avatar.4b0188b7.png": "/static/media/avatar.4b0188b7.png",
+    "static/media/book5.jpg": "/static/media/book5.7c8d1ff8.jpg",
     "static/media/contactus.e165f8a8.jpg": "/static/media/contactus.e165f8a8.jpg",
     "static/media/contactusSM2.19844349.jpg": "/static/media/contactusSM2.19844349.jpg",
     "static/media/faq.f7b5dd95.svg": "/static/media/faq.f7b5dd95.svg",
     "static/media/gp resources.50ba655d.svg": "/static/media/gp resources.50ba655d.svg",
     "static/media/gp stories.b295ff42.svg": "/static/media/gp stories.b295ff42.svg",
+    "static/media/mbook5.jpg": "/static/media/mbook5.7de9cad9.jpg",
     "static/media/repeatingBackground.02252817.svg": "/static/media/repeatingBackground.02252817.svg",
     "static/media/teamSpirit.ea500527.svg": "/static/media/teamSpirit.ea500527.svg",
     "static/media/under construction.93a7bc67.svg": "/static/media/under construction.93a7bc67.svg",
@@ -46,7 +48,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.74b8d595.js",
-    "static/js/2.77726a90.chunk.js",
-    "static/js/main.3189cb4f.chunk.js"
+    "static/js/2.8ee8b669.chunk.js",
+    "static/js/main.3bee471d.chunk.js"
   ]
 }
