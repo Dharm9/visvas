@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.cb8dcd8c.chunk.js",
-    "main.js.map": "/static/js/main.cb8dcd8c.chunk.js.map",
+    "main.js": "/static/js/main.5a56858a.chunk.js",
+    "main.js.map": "/static/js/main.5a56858a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.74b8d595.js",
     "runtime-main.js.map": "/static/js/runtime-main.74b8d595.js.map",
-    "static/js/2.e302ec3c.chunk.js": "/static/js/2.e302ec3c.chunk.js",
-    "static/js/2.e302ec3c.chunk.js.map": "/static/js/2.e302ec3c.chunk.js.map",
+    "static/js/2.705b1987.chunk.js": "/static/js/2.705b1987.chunk.js",
+    "static/js/2.705b1987.chunk.js.map": "/static/js/2.705b1987.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.e302ec3c.chunk.js.LICENSE.txt": "/static/js/2.e302ec3c.chunk.js.LICENSE.txt",
+    "static/js/2.705b1987.chunk.js.LICENSE.txt": "/static/js/2.705b1987.chunk.js.LICENSE.txt",
     "static/media/15th Finance Commsn Letter Water Sanitation Fund Advisory.c483472e.pdf": "/static/media/15th Finance Commsn Letter Water Sanitation Fund Advisory.c483472e.pdf",
     "static/media/Amardi GP.pdf": "/static/media/Amardi GP.35cb7136.pdf",
     "static/media/Child Friendly GP 2019 Awardee list.6432c28e.pdf": "/static/media/Child Friendly GP 2019 Awardee list.6432c28e.pdf",
@@ -36,7 +36,6 @@
     "static/media/Kunariya GP.pdf": "/static/media/Kunariya GP.8526cb77.pdf",
     "static/media/Kundiamba.pdf": "/static/media/Kundiamba.633c9bcb.pdf",
     "static/media/MoF - XV FC RLBs_Guidelines_for_2020-21.591d2bfd.pdf": "/static/media/MoF - XV FC RLBs_Guidelines_for_2020-21.591d2bfd.pdf",
-    "static/media/National Urban Policy Framework_final 2018.459afe41.pdf": "/static/media/National Urban Policy Framework_final 2018.459afe41.pdf",
     "static/media/PRI Strengethening DRR.89d0aa82.pdf": "/static/media/PRI Strengethening DRR.89d0aa82.pdf",
     "static/media/Preparation of GPDP- Operating Framework and Template for Plan Preparation- UNNATI.2ddd7b73.pdf": "/static/media/Preparation of GPDP- Operating Framework and Template for Plan Preparation- UNNATI.2ddd7b73.pdf",
     "static/media/Punsari GP Gujarati.pdf": "/static/media/Punsari GP Gujarati.36ee4fde.pdf",
@@ -66,7 +65,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.74b8d595.js",
-    "static/js/2.e302ec3c.chunk.js",
-    "static/js/main.cb8dcd8c.chunk.js"
+    "static/js/2.705b1987.chunk.js",
+    "static/js/main.5a56858a.chunk.js"
   ]
 }
