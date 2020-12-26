@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.5a56858a.chunk.js",
-    "main.js.map": "/static/js/main.5a56858a.chunk.js.map",
+    "main.js": "/static/js/main.c06f7460.chunk.js",
+    "main.js.map": "/static/js/main.c06f7460.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.74b8d595.js",
     "runtime-main.js.map": "/static/js/runtime-main.74b8d595.js.map",
-    "static/js/2.705b1987.chunk.js": "/static/js/2.705b1987.chunk.js",
-    "static/js/2.705b1987.chunk.js.map": "/static/js/2.705b1987.chunk.js.map",
+    "static/js/2.6cd228c1.chunk.js": "/static/js/2.6cd228c1.chunk.js",
+    "static/js/2.6cd228c1.chunk.js.map": "/static/js/2.6cd228c1.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.705b1987.chunk.js.LICENSE.txt": "/static/js/2.705b1987.chunk.js.LICENSE.txt",
+    "static/js/2.6cd228c1.chunk.js.LICENSE.txt": "/static/js/2.6cd228c1.chunk.js.LICENSE.txt",
     "static/media/15th Finance Commsn Letter Water Sanitation Fund Advisory.c483472e.pdf": "/static/media/15th Finance Commsn Letter Water Sanitation Fund Advisory.c483472e.pdf",
     "static/media/Amardi GP.pdf": "/static/media/Amardi GP.35cb7136.pdf",
     "static/media/Child Friendly GP 2019 Awardee list.6432c28e.pdf": "/static/media/Child Friendly GP 2019 Awardee list.6432c28e.pdf",
@@ -20,11 +20,8 @@
     "static/media/Final Guidelines for GPDP 2018 111218_1546336423450.b32a3318.pdf": "/static/media/Final Guidelines for GPDP 2018 111218_1546336423450.b32a3318.pdf",
     "static/media/FooterTitle2.683406e7.svg": "/static/media/FooterTitle2.683406e7.svg",
     "static/media/Gujarat Panchayat Act 1993.48d89bff.pdf": "/static/media/Gujarat Panchayat Act 1993.48d89bff.pdf",
-    "static/media/Gujarati 15th Finance Commission Gujarati Brief Guide.8e0ec8d2.pdf": "/static/media/Gujarati 15th Finance Commission Gujarati Brief Guide.8e0ec8d2.pdf",
     "static/media/Gujarati 15th Finance Commission related Circular.1f262f2e.pdf": "/static/media/Gujarati 15th Finance Commission related Circular.1f262f2e.pdf",
     "static/media/Gujarati 15th Finance Commsn Water Sanitation Fund Advisory.f6515205.pdf": "/static/media/Gujarati 15th Finance Commsn Water Sanitation Fund Advisory.f6515205.pdf",
-    "static/media/Gujarati Community Based Moni Child Friendly Progs.a10da8fb.pdf": "/static/media/Gujarati Community Based Moni Child Friendly Progs.a10da8fb.pdf",
-    "static/media/Gujarati GPDP Process Guideline with Formats Revised_14-10-19.3e87cd95.pdf": "/static/media/Gujarati GPDP Process Guideline with Formats Revised_14-10-19.3e87cd95.pdf",
     "static/media/Gujarati GR_Pani_Samiti_2016.a5fd84fa.pdf": "/static/media/Gujarati GR_Pani_Samiti_2016.a5fd84fa.pdf",
     "static/media/Gujarati Health Education Social Security Schemes booklet.ee054280.pdf": "/static/media/Gujarati Health Education Social Security Schemes booklet.ee054280.pdf",
     "static/media/Gujarati Village Level Committees roles.6ae4404d.pdf": "/static/media/Gujarati Village Level Committees roles.6ae4404d.pdf",
@@ -61,11 +58,13 @@
     "static/media/teamSpirit.ea500527.svg": "/static/media/teamSpirit.ea500527.svg",
     "static/media/village2_md.ff325799.jpg": "/static/media/village2_md.ff325799.jpg",
     "static/media/village2_sm.9420bf5b.jpg": "/static/media/village2_sm.9420bf5b.jpg",
-    "static/media/winner2.815ac9e8.svg": "/static/media/winner2.815ac9e8.svg"
+    "static/media/winner2.815ac9e8.svg": "/static/media/winner2.815ac9e8.svg",
+    "static/media/ઉન્નતિ જીપીડીપી માર્ગદર્શિકા અને પત્રકો 14 Oct 2019.3e87cd95.pdf": "/static/media/ઉન્નતિ જીપીડીપી માર્ગદર્શિકા અને પત્રકો 14 Oct 2019.3e87cd95.pdf",
+    "static/media/ગુજરાત સરકાર જીપીડીપી માર્ગદર્શિકા 30 ડિસેમ્બર 2015.77a7b89c.pdf": "/static/media/ગુજરાત સરકાર જીપીડીપી માર્ગદર્શિકા 30 ડિસેમ્બર 2015.77a7b89c.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.74b8d595.js",
-    "static/js/2.705b1987.chunk.js",
-    "static/js/main.5a56858a.chunk.js"
+    "static/js/2.6cd228c1.chunk.js",
+    "static/js/main.c06f7460.chunk.js"
   ]
 }
