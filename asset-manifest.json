@@ -1,19 +1,18 @@
 {
   "files": {
-    "main.js": "/static/js/main.2554c007.chunk.js",
-    "main.js.map": "/static/js/main.2554c007.chunk.js.map",
+    "main.js": "/static/js/main.e6a4ad3f.chunk.js",
+    "main.js.map": "/static/js/main.e6a4ad3f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.74b8d595.js",
     "runtime-main.js.map": "/static/js/runtime-main.74b8d595.js.map",
     "static/js/2.9468e1eb.chunk.js": "/static/js/2.9468e1eb.chunk.js",
     "static/js/2.9468e1eb.chunk.js.map": "/static/js/2.9468e1eb.chunk.js.map",
     "index.html": "/index.html",
     "static/js/2.9468e1eb.chunk.js.LICENSE.txt": "/static/js/2.9468e1eb.chunk.js.LICENSE.txt",
-    "static/media/15th Finance Commsn Letter Water Sanitation Fund Advisory.c483472e.pdf": "/static/media/15th Finance Commsn Letter Water Sanitation Fund Advisory.c483472e.pdf",
+    "static/media/15th Finance Commission Letter 20 February 2020.c483472e.pdf": "/static/media/15th Finance Commission Letter 20 February 2020.c483472e.pdf",
+    "static/media/15th Finance Commission Water Sanitation Fund Advisory English 17 March 2020.8f27f94b.pdf": "/static/media/15th Finance Commission Water Sanitation Fund Advisory English 17 March 2020.8f27f94b.pdf",
     "static/media/Amardi GP.pdf": "/static/media/Amardi GP.35cb7136.pdf",
-    "static/media/Child Friendly GP 2019 Awardee list.6432c28e.pdf": "/static/media/Child Friendly GP 2019 Awardee list.6432c28e.pdf",
-    "static/media/Child Friendly GP 2020 Awardee list.f1e79114.pdf": "/static/media/Child Friendly GP 2020 Awardee list.f1e79114.pdf",
+    "static/media/Central Government GPDP Guidelines 3 October 2018.b32a3318.pdf": "/static/media/Central Government GPDP Guidelines 3 October 2018.b32a3318.pdf",
     "static/media/Child Friendly GP Award Criteria Letter of 8Mar19.ffebcd84.pdf": "/static/media/Child Friendly GP Award Criteria Letter of 8Mar19.ffebcd84.pdf",
-    "static/media/Community Based Monitoring Child Friendly Progs.8448312a.pdf": "/static/media/Community Based Monitoring Child Friendly Progs.8448312a.pdf",
     "static/media/Daramli GP.pdf": "/static/media/Daramli GP.1a23b81b.pdf",
     "static/media/Dhrobana GP.pdf": "/static/media/Dhrobana GP.95eb92a9.pdf",
     "static/media/Dumalpur school.pdf": "/static/media/Dumalpur school.a07dc005.pdf",
@@ -34,12 +33,10 @@
     "static/media/Kunariya GP.pdf": "/static/media/Kunariya GP.8526cb77.pdf",
     "static/media/Kundiamba.pdf": "/static/media/Kundiamba.633c9bcb.pdf",
     "static/media/MoF - XV FC RLBs_Guidelines_for_2020-21.591d2bfd.pdf": "/static/media/MoF - XV FC RLBs_Guidelines_for_2020-21.591d2bfd.pdf",
-    "static/media/PRI Strengethening DRR.89d0aa82.pdf": "/static/media/PRI Strengethening DRR.89d0aa82.pdf",
-    "static/media/Preparation of GPDP- Operating Framework and Template for Plan Preparation- UNNATI.2ddd7b73.pdf": "/static/media/Preparation of GPDP- Operating Framework and Template for Plan Preparation- UNNATI.2ddd7b73.pdf",
     "static/media/Punsari GP Gujarati.pdf": "/static/media/Punsari GP Gujarati.36ee4fde.pdf",
     "static/media/Punsari GP.pdf": "/static/media/Punsari GP.60108dc9.pdf",
     "static/media/Soyla GP.pdf": "/static/media/Soyla GP.0e7ca36b.pdf",
-    "static/media/TOT DRR Rural Dev.a31e7255.pdf": "/static/media/TOT DRR Rural Dev.a31e7255.pdf",
+    "static/media/UNNATI Preparation of GPDP Operating Framework and Template 14 Oct 2019.2ddd7b73.pdf": "/static/media/UNNATI Preparation of GPDP Operating Framework and Template 14 Oct 2019.2ddd7b73.pdf",
     "static/media/avatar.4b0188b7.png": "/static/media/avatar.4b0188b7.png",
     "static/media/book5.jpg": "/static/media/book5.7c8d1ff8.jpg",
     "static/media/contactus.e165f8a8.jpg": "/static/media/contactus.e165f8a8.jpg",
@@ -66,6 +63,6 @@
   "entrypoints": [
     "static/js/runtime-main.74b8d595.js",
     "static/js/2.9468e1eb.chunk.js",
-    "static/js/main.2554c007.chunk.js"
+    "static/js/main.e6a4ad3f.chunk.js"
   ]
 }
