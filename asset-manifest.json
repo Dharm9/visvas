@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.c06f7460.chunk.js",
-    "main.js.map": "/static/js/main.c06f7460.chunk.js.map",
+    "main.js": "/static/js/main.2554c007.chunk.js",
+    "main.js.map": "/static/js/main.2554c007.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.74b8d595.js",
     "runtime-main.js.map": "/static/js/runtime-main.74b8d595.js.map",
-    "static/js/2.6cd228c1.chunk.js": "/static/js/2.6cd228c1.chunk.js",
-    "static/js/2.6cd228c1.chunk.js.map": "/static/js/2.6cd228c1.chunk.js.map",
+    "static/js/2.9468e1eb.chunk.js": "/static/js/2.9468e1eb.chunk.js",
+    "static/js/2.9468e1eb.chunk.js.map": "/static/js/2.9468e1eb.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.6cd228c1.chunk.js.LICENSE.txt": "/static/js/2.6cd228c1.chunk.js.LICENSE.txt",
+    "static/js/2.9468e1eb.chunk.js.LICENSE.txt": "/static/js/2.9468e1eb.chunk.js.LICENSE.txt",
     "static/media/15th Finance Commsn Letter Water Sanitation Fund Advisory.c483472e.pdf": "/static/media/15th Finance Commsn Letter Water Sanitation Fund Advisory.c483472e.pdf",
     "static/media/Amardi GP.pdf": "/static/media/Amardi GP.35cb7136.pdf",
     "static/media/Child Friendly GP 2019 Awardee list.6432c28e.pdf": "/static/media/Child Friendly GP 2019 Awardee list.6432c28e.pdf",
@@ -26,6 +26,7 @@
     "static/media/Gujarati Health Education Social Security Schemes booklet.ee054280.pdf": "/static/media/Gujarati Health Education Social Security Schemes booklet.ee054280.pdf",
     "static/media/Gujarati Village Level Committees roles.6ae4404d.pdf": "/static/media/Gujarati Village Level Committees roles.6ae4404d.pdf",
     "static/media/Handbook_for_Members_of_VHSNC-English.efdbbcbe.pdf": "/static/media/Handbook_for_Members_of_VHSNC-English.efdbbcbe.pdf",
+    "static/media/HeaderTitle2-gu.svg": "/static/media/HeaderTitle2-gu.86d301ed.svg",
     "static/media/HeaderTitle2.svg": "/static/media/HeaderTitle2.4974153e.svg",
     "static/media/Jethipura GP.pdf": "/static/media/Jethipura GP.19206c58.pdf",
     "static/media/Khokhra Umar GP.pdf": "/static/media/Khokhra Umar GP.a4024d10.pdf",
@@ -64,7 +65,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.74b8d595.js",
-    "static/js/2.6cd228c1.chunk.js",
-    "static/js/main.c06f7460.chunk.js"
+    "static/js/2.9468e1eb.chunk.js",
+    "static/js/main.2554c007.chunk.js"
   ]
 }
