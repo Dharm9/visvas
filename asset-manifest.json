@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.a6bc8ed9.chunk.js",
-    "main.js.map": "/static/js/main.a6bc8ed9.chunk.js.map",
+    "main.js": "/static/js/main.e529c98b.chunk.js",
+    "main.js.map": "/static/js/main.e529c98b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.74b8d595.js",
     "runtime-main.js.map": "/static/js/runtime-main.74b8d595.js.map",
-    "static/js/2.ebae7d4f.chunk.js": "/static/js/2.ebae7d4f.chunk.js",
-    "static/js/2.ebae7d4f.chunk.js.map": "/static/js/2.ebae7d4f.chunk.js.map",
+    "static/js/2.968c07ed.chunk.js": "/static/js/2.968c07ed.chunk.js",
+    "static/js/2.968c07ed.chunk.js.map": "/static/js/2.968c07ed.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.ebae7d4f.chunk.js.LICENSE.txt": "/static/js/2.ebae7d4f.chunk.js.LICENSE.txt",
+    "static/js/2.968c07ed.chunk.js.LICENSE.txt": "/static/js/2.968c07ed.chunk.js.LICENSE.txt",
     "static/media/15th Finance Commission Letter 20 February 2020.c483472e.pdf": "/static/media/15th Finance Commission Letter 20 February 2020.c483472e.pdf",
     "static/media/15th Finance Commission Water Sanitation Fund Advisory English 17 March 2020.8f27f94b.pdf": "/static/media/15th Finance Commission Water Sanitation Fund Advisory English 17 March 2020.8f27f94b.pdf",
     "static/media/Amardi GP.pdf": "/static/media/Amardi GP.35cb7136.pdf",
@@ -43,7 +43,6 @@
     "static/media/gp stories.b295ff42.svg": "/static/media/gp stories.b295ff42.svg",
     "static/media/gp1.png": "/static/media/gp1.877ec0b3.png",
     "static/media/gp11.jpg": "/static/media/gp11.3281dbb5.jpg",
-    "static/media/gp11.png": "/static/media/gp11.58675348.png",
     "static/media/gp11_2.jpg": "/static/media/gp11_2.013efcff.jpg",
     "static/media/gp1_2.png": "/static/media/gp1_2.09594a28.png",
     "static/media/gp2.jpg": "/static/media/gp2.9b05b9f0.jpg",
@@ -60,7 +59,6 @@
     "static/media/gp9_2.png": "/static/media/gp9_2.10514338.png",
     "static/media/mbook5.jpg": "/static/media/mbook5.7de9cad9.jpg",
     "static/media/mgp1.png": "/static/media/mgp1.2730393b.png",
-    "static/media/mgp11.png": "/static/media/mgp11.be8ebc96.png",
     "static/media/mgp11.jpg": "/static/media/mgp11.eaa9a482.jpg",
     "static/media/mgp5.jpg": "/static/media/mgp5.58b75f9a.jpg",
     "static/media/mgp6.png": "/static/media/mgp6.7ffafffa.png",
@@ -77,7 +75,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.74b8d595.js",
-    "static/js/2.ebae7d4f.chunk.js",
-    "static/js/main.a6bc8ed9.chunk.js"
+    "static/js/2.968c07ed.chunk.js",
+    "static/js/main.e529c98b.chunk.js"
   ]
 }
