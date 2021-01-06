@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.b8ca5d6a.chunk.js",
-    "main.js.map": "/static/js/main.b8ca5d6a.chunk.js.map",
+    "main.js": "/static/js/main.25f76440.chunk.js",
+    "main.js.map": "/static/js/main.25f76440.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.74b8d595.js",
     "runtime-main.js.map": "/static/js/runtime-main.74b8d595.js.map",
     "static/js/2.c9d2f167.chunk.js": "/static/js/2.c9d2f167.chunk.js",
@@ -24,8 +24,8 @@
     "static/media/UNNATI Preparation of GPDP Operating Framework and Template 14 Oct 2019.2ddd7b73.pdf": "/static/media/UNNATI Preparation of GPDP Operating Framework and Template 14 Oct 2019.2ddd7b73.pdf",
     "static/media/avatar.4b0188b7.png": "/static/media/avatar.4b0188b7.png",
     "static/media/book5.jpg": "/static/media/book5.7c8d1ff8.jpg",
-    "static/media/child2.png": "/static/media/child2.2742877b.png",
-    "static/media/child3.png": "/static/media/child3.c0c5a553.png",
+    "static/media/child.png": "/static/media/child.916060d7.png",
+    "static/media/child1.png": "/static/media/child1.9769ff94.png",
     "static/media/contactus.e165f8a8.jpg": "/static/media/contactus.e165f8a8.jpg",
     "static/media/contactusSM2.19844349.jpg": "/static/media/contactusSM2.19844349.jpg",
     "static/media/faq.f7b5dd95.svg": "/static/media/faq.f7b5dd95.svg",
@@ -43,6 +43,6 @@
   "entrypoints": [
     "static/js/runtime-main.74b8d595.js",
     "static/js/2.c9d2f167.chunk.js",
-    "static/js/main.b8ca5d6a.chunk.js"
+    "static/js/main.25f76440.chunk.js"
   ]
 }
