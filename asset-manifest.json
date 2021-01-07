@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.25f76440.chunk.js",
-    "main.js.map": "/static/js/main.25f76440.chunk.js.map",
+    "main.js": "/static/js/main.b0bfdbbc.chunk.js",
+    "main.js.map": "/static/js/main.b0bfdbbc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.74b8d595.js",
     "runtime-main.js.map": "/static/js/runtime-main.74b8d595.js.map",
-    "static/js/2.c9d2f167.chunk.js": "/static/js/2.c9d2f167.chunk.js",
-    "static/js/2.c9d2f167.chunk.js.map": "/static/js/2.c9d2f167.chunk.js.map",
+    "static/js/2.4a783fc9.chunk.js": "/static/js/2.4a783fc9.chunk.js",
+    "static/js/2.4a783fc9.chunk.js.map": "/static/js/2.4a783fc9.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.c9d2f167.chunk.js.LICENSE.txt": "/static/js/2.c9d2f167.chunk.js.LICENSE.txt",
+    "static/js/2.4a783fc9.chunk.js.LICENSE.txt": "/static/js/2.4a783fc9.chunk.js.LICENSE.txt",
     "static/media/15th Finance Commission Letter 20 February 2020.c483472e.pdf": "/static/media/15th Finance Commission Letter 20 February 2020.c483472e.pdf",
     "static/media/15th Finance Commission Water Sanitation Fund Advisory English 17 March 2020.8f27f94b.pdf": "/static/media/15th Finance Commission Water Sanitation Fund Advisory English 17 March 2020.8f27f94b.pdf",
     "static/media/Central Government GPDP Guidelines 3 October 2018.b32a3318.pdf": "/static/media/Central Government GPDP Guidelines 3 October 2018.b32a3318.pdf",
@@ -25,7 +25,7 @@
     "static/media/avatar.4b0188b7.png": "/static/media/avatar.4b0188b7.png",
     "static/media/book5.jpg": "/static/media/book5.7c8d1ff8.jpg",
     "static/media/child.png": "/static/media/child.916060d7.png",
-    "static/media/child1.png": "/static/media/child1.9769ff94.png",
+    "static/media/child1.png": "/static/media/child1.916060d7.png",
     "static/media/contactus.e165f8a8.jpg": "/static/media/contactus.e165f8a8.jpg",
     "static/media/contactusSM2.19844349.jpg": "/static/media/contactusSM2.19844349.jpg",
     "static/media/faq.f7b5dd95.svg": "/static/media/faq.f7b5dd95.svg",
@@ -42,7 +42,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.74b8d595.js",
-    "static/js/2.c9d2f167.chunk.js",
-    "static/js/main.25f76440.chunk.js"
+    "static/js/2.4a783fc9.chunk.js",
+    "static/js/main.b0bfdbbc.chunk.js"
   ]
 }
